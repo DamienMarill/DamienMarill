@@ -91,7 +91,7 @@ Lvl 26 Developer / Lvl 3 University Instructor
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DamienMarill&repo=laravel-dev-serve&theme=tokyonight" />
   </a>
   <a href="https://github.com/DamienMarill/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DamienMarill&repo=project2&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DamienMarill&repo=mailcow-alias-extension&theme=tokyonight" />
   </a>
 </div>
 
