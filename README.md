@@ -87,10 +87,10 @@ Lvl 26 Developer / Lvl 3 University Instructor
 ### 🛡️ Featured Artifacts
 
 <div align="center">
-  <a href="https://github.com/DamienMarill/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DamienMarill&repo=laravel-dev-serve&theme=tokyonight" />
+  <a href="https://github.com/DamienMarill/laravel-dev-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DamienMarill&repo=laravel-dev-server&theme=tokyonight" />
   </a>
-  <a href="https://github.com/DamienMarill/project2">
+  <a href="https://github.com/DamienMarill/mailcow-alias-extension">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DamienMarill&repo=mailcow-alias-extension&theme=tokyonight" />
   </a>
 </div>
@@ -105,13 +105,6 @@ Started as a curious technophile, evolving through the ranks of code learners to
 - **Pattern Recognition**: Quickly identifies code structures and architectural patterns
 - **Knowledge Transfer**: Ability to explain complex concepts in simple terms
 - **Night Owl**: Enhanced productivity during nighttime hours
-
-## 🧙‍♂️ ALLIES & COMPANIONS
-
-Connect with me on my quest:
-- 📫 [Email](mailto:your.email@example.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/damienmarill)
-- 🌐 [Portfolio](https://your-portfolio.com)
 
 ## 🗺️ CURRENT LOCATION
 
