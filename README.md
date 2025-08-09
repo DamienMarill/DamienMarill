@@ -90,8 +90,14 @@ Lvl 26 Developer / Lvl 3 University Instructor
   <a href="https://github.com/DamienMarill/laravel-dev-server">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DamienMarill&repo=laravel-dev-server&theme=tokyonight" />
   </a>
-  <a href="https://github.com/DamienMarill/mailcow-alias-extension">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DamienMarill&repo=mailcow-alias-extension&theme=tokyonight" />
+  <a href="https://github.com/DamienMarill/anything-ipsum">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DamienMarill&repo=anything-ipsum&theme=tokyonight" />
+  </a><br>
+    <a href="https://github.com/KalyaSante/risu_server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalyaSante&repo=risu_server&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/KalyaSante/hedgii">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalyaSante&repo=hedgii&theme=tokyonight" />
   </a>
 </div>
 
